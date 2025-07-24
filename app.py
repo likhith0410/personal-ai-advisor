@@ -1219,7 +1219,6 @@ def login_register_page():
     st.markdown("""
     <div class="main-header">
         <h1>🚀 AI Advisor Platform</h1>
-        <p>Your Personal AI Advisors - Secure & Ready for Deployment!</p>
     </div>
     """, unsafe_allow_html=True)
     
