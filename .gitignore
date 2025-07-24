@@ -1,0 +1,6 @@
+.env 
+api_keys.json 
+users.db 
+__pycache__/ 
+*.pyc 
+documents/ 
